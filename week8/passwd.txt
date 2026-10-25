@@ -1,0 +1,28 @@
+#Four Character Password Hashes
+#==============================
+6e8fe0f63ffbb20d6d202d5520f5051c
+839d3df4c5a00150228773c33ee8a7d3
+44e12bf0ebfaea3f1459d74467ed9188
+23362fa661db4c6513d61e275598b1d2
+4d746dee9dde402658f4b0bedeba53d6
+3c848ffb6ac6347034feef85a11a9bb3
+60191f83efc613ef4b1fbe36ecd62fca
+576f3fbef2b9a15fa3b8a248a6948899
+adcdbd510f53ad049fa1cdedd4499d4d
+4e5330efbe8dad3f2aa1386cc4099555
+e5509d515db158951ca12f8394421da9
+39e62387013ad2ac1dc33bc844f7773f
+8084133afa0cd22d688991ebadc51ab6
+
+#Four Character NN Password Hashes
+#Passwords are four letter words starting 
+#with a "g" and followed by two digits.
+#e.g.  "gate42"
+#==============================
+72c6fef159ba7c4dd7405cf6d57a43f8
+65e96f238f2e56936e99f654863fbfac
+0ee4dbb3ae421453fbfa56bf74107e1f
+a539e180553e9b7563449f901eed487e
+f27bf19d4aca248bbe32b1729e9cf744
+6d14c444e4a57374886372a5afbe7b87
+3465bd2c6d8328a25e6daf5055140c64
